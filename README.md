@@ -1,2 +1,2 @@
 # CMP-V2
-prout
+c'est la V2 du CMP
